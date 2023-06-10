@@ -6,9 +6,9 @@ Web Beat Maker is an online tool that allows users to create beats and music tra
 
 
 
-## Demo
+## UI
 
-https://github.com/Rushi-shinde/Web-Beat-Maker/blob/6db21547c629d30152b9b76d3f79b2d538df6279/img/Screenshot%202023-06-10%20120116.png
+![App Screenshot](https://github.com/Rushi-shinde/Web-Beat-Maker/blob/6db21547c629d30152b9b76d3f79b2d538df6279/img/Screenshot%202023-06-10%20120116.png)
 
 
 ## Features
